@@ -1,0 +1,19 @@
+p { 
+    text-align: center;
+    font-size: large;
+}
+.firstrow {
+    background-color: #dda0dd;
+}
+.secondrow {
+    background-color: #d87093;
+}
+.thirdrow{
+    background-color: #b0e0e6;
+}
+.fourthrow1{
+    background-color:#008000 ;
+}
+.fourthrow2{
+    background-color:#ffa500 ;
+}
